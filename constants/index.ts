@@ -95,6 +95,12 @@ export const Projects = [
     text: "Class project that disassembles object code into assembly code.",
     src: "/project-3.png",
     color: "black"
+  }, 
+  {
+    title: "Learn Programming",
+    text: "Web application built using Bootstrap 5 to create a responsive and visually appealing website aiding in the learning of programming!",
+    src:"/project-4.png",
+    color: "black"
   }
 ];
 
