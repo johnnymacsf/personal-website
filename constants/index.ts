@@ -97,9 +97,9 @@ export const Projects = [
     color: "black"
   }, 
   {
-    title: "Learn Programming",
-    text: "Web application built using Bootstrap 5 to create a responsive and visually appealing website aiding in the learning of programming!",
-    src:"/project-4.png",
+    title: "Roman Emperor Gallery",
+    text: "Web application displaying biographical information on the Roman emperors, from Augustus to Theodosius I!",
+    src:"/roman-emperor.png",
     color: "black"
   }
 ];
