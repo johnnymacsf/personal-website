@@ -85,6 +85,12 @@ export const Projects = [
     color: "black"
   },
   {
+    title: "Productivity Plus",
+    text: "Productivity app for users to be productive throughout the day, built using the MERN stack.",
+    src: "/productivity-app.png",
+    color: "black"
+  },
+  {
     title: "Star Wars Encyclopedia",
     text: "Web application that displays information about the first six Star Wars movies fetched from the Star Wars API!",
     src: "/project-2.png",
@@ -96,12 +102,6 @@ export const Projects = [
     src: "/project-3.png",
     color: "black"
   }, 
-  {
-    title: "Roman Emperor Gallery",
-    text: "Web application displaying biographical information on the Roman emperors, from Augustus to Theodosius I!",
-    src:"/roman-emperor.png",
-    color: "black"
-  }
 ];
 
 export const NavLinks = [
