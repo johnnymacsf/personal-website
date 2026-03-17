@@ -9,7 +9,7 @@ const Page = () => {
         <h1 className='font-semibold text-white text-[50px]'>
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500'>My Projects</span>
         </h1>
-        <p className='text-gray-400 text-[20px] text-white'>
+        <p className='text-gray-400 text-[20p]'>
            Feel free to go to my GitHub to look at the source code! 
         </p>
       </div>

@@ -13,15 +13,14 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block text-lg">
-          Welcome to My Personal Portfolio!
-I’m passionate about web development and full-stack software engineering. Dive in to explore my work, skills, and journey as a developer. Feel free to connect and learn more about me!
+            Master's student in Computer Science at the University of San Francisco with a passion for full-stack development and a growing interest in AI-powered applications. Seeking software engineering roles where I can continue building production-ready applications while exploring the integration of modern LLM tools and frameworks.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-6">
             <Link href="/my-skills" className="rounded-[20px] group relative bg-blue-500 hover:bg-blue-400 px-3 py-3 text-lg text-white max-w-[200px]">
-              My Skills
+              Skills
             </Link>
             <Link href="/my-projects" className="rounded-[20px] bg-blue-500 group relative hover:bg-blue-400 px-3 py-3 text-lg text-white max-w-[200px]">
-                My Projects
+                Projects
             </Link>
             <Link href="/contact-me" className="rounded-[20px] bg-blue-500 group relative hover:bg-blue-400 px-3 py-3 text-lg text-white max-w-[200px]">
                 Contact Me
