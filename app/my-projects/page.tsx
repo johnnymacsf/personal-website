@@ -4,12 +4,12 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div className='w-screen h-screen flex items-center justify-center bg-center bg-cover' style={{backgroundImage: "url(my-projects.webp)"}}>
-      <div className='absolute top-10 w-full flex flex-col items-center'>
+    <div className='w-screen min-h-screen flex flex-col py-10 items-center justify-center bg-center bg-cover' style={{backgroundImage: "url(my-projects.webp)"}}>
+      <div className='top-10 w-full flex flex-col items-center mb-8'>
         <h1 className='font-semibold text-white text-[50px]'>
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500'>My Projects</span>
         </h1>
-        <p className='text-gray-400 text-[20p]'>
+        <p className='text-gray-400 text-[20px]'>
            Feel free to go to my GitHub to look at the source code! 
         </p>
       </div>
